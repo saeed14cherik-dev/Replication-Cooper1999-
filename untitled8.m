@@ -1,5 +1,4 @@
 %Replication of Cooper (1999)
-%Saeed Cherik
 %ECO 6363
 clear; clc;
 
